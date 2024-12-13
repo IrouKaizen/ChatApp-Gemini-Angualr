@@ -1,3 +1,20 @@
+Gemini + Angular = … ?
+
+Bien bon voilà.
+Comment j'ai jonglé entre de petits bugs pour intégrer Gemini comme chatbot dans mon app #Angular.
+Un squelette d'article qui donne de la puissance et de la clarté que voici : 💡
+
+- Lire en français :
+
+- Lire en anglais : 
+
+Maybe je ferai une vidéo pour expliquer, pourquoi pas ^-^ ? en attendant une bonne caméra.
+
+![image](https://github.com/user-attachments/assets/97a31a46-b22b-45f3-ba65-af0c7d5d2cb8)
+
+
+----------------------------------------------------------------------
+
 # Angu3D
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.11.
