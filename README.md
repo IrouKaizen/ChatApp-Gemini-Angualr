@@ -4,9 +4,9 @@ Bien bon voilà.
 Comment j'ai jonglé entre de petits bugs pour intégrer Gemini comme chatbot dans mon app #Angular.
 Un squelette d'article qui donne de la puissance et de la clarté que voici : 💡
 
-- Lire en français :
+- Lire en français : https://medium.com/@ireneamedji/gemini-angular-eca9b70ad282
 
-- Lire en anglais : 
+- Lire en anglais : https://medium.com/@ireneamedji/gemini-angular-1c501776d2bb
 
 Maybe je ferai une vidéo pour expliquer, pourquoi pas ^-^ ? en attendant une bonne caméra.
 
