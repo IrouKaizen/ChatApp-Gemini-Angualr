@@ -1,3 +1,5 @@
+Lire l'article avant de s'attaquer au code !!!!!!!!!!!
+
 Gemini + Angular = … ?
 
 Bien bon voilà.
